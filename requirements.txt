@@ -8,3 +8,5 @@ lxml_html_clean
 opencv-python
 matplotlib
 underthesea
+translate
+googletrans==4.0.0rc1

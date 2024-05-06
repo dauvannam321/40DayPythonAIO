@@ -10,3 +10,6 @@ matplotlib
 underthesea
 translate
 googletrans==4.0.0rc1
+librosa
+SpeechRecognition
+gtts

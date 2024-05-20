@@ -14,3 +14,4 @@ librosa
 SpeechRecognition
 gtts
 pygwalker
+wandb

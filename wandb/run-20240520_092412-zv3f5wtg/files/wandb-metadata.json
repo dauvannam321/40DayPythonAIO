@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.11.4",
+    "heartbeatAt": "2024-05-20T02:24:19.030629",
+    "startedAt": "2024-05-20T02:24:12.888914",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/dauvannam321/40DayPythonAIO.git",
+        "commit": "695f084dc471fc309f87026d703938b34cb47a80"
+    },
+    "email": "dauvannam321@gmail.com",
+    "root": "C:/VSCode/Python/40DayPythonAIO",
+    "host": "DESKTOP-0FVRSJP",
+    "username": "pc",
+    "executable": "c:\\VSCode\\Python\\40DayPythonAIO\\venv\\Scripts\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1910.0,
+        "min": 0.0,
+        "max": 2112.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1910.0,
+            "min": 0.0,
+            "max": 2112.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 237.5327491760254,
+            "used": 197.9791374206543
+        }
+    },
+    "memory": {
+        "total": 7.861644744873047
+    }
+}
